@@ -39,6 +39,7 @@ Note - currently the strategies are split into 5 groups. This was done to hopefu
 - Lazy Lions
 
 ### Strategies/AB_Strategies_1
+- NOTE: This strategy is currently not used due to the large amount of token IDs listed.
 - Chrome Squiggles 
     - 0x059edd72cd353df5106d2b9cc5ab83a52287ac3a
     - ID: 0 - 9999
