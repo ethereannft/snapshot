@@ -1,4 +1,4 @@
-# Etherean NFT - Snapshot
+# Etherean Unicorn Club - Snapshot
 
 This repo is for displaying our snapshot strategies and an overview of the process.
 
