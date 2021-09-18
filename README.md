@@ -4,6 +4,10 @@ Project Information: [ethereannft.com](https://www.ethereannft.com)
 
 This repo is for displaying our snapshot strategies and an overview of the process.
 
+We listened and talked with the community for the initial input on our NFT24 selections - but this is a somewhat arbitrary assignment. [Join our discord](https://discord.gg/k2Z2rZSt3K) to engage and discuss more about this!
+
+[@ethereannft](https://www.twitter.com/ethereannft)
+
 ## Strategies
 
 Two types of [Snapshot](https://snapshot.org) are used. The [ERC721 Multi Registry](https://github.com/snapshot-labs/snapshot-strategies/tree/master/src/strategies/erc721-multi-registry) strategy is used to get a number of NFT collections. The [ERC721 with Token ID](https://github.com/snapshot-labs/snapshot-strategies/tree/master/src/strategies/erc721-with-tokenid) is used to get the Ringers and Fidenza collections from ArtBlocks.
