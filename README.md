@@ -1,6 +1,6 @@
 # Etherean Unicorn Club - Snapshot
 
-[ethereannft.com](https://www.ethereannft.com)
+Project Information: [ethereannft.com](https://www.ethereannft.com)
 
 This repo is for displaying our snapshot strategies and an overview of the process.
 
@@ -10,7 +10,7 @@ Two types of [Snapshot](https://snapshot.org) are used. The [ERC721 Multi Regist
 
 Below you will see the makeup of the NFT24.
 
-Note - currently the strategies are split into 5 groups. This was done to hopefully help with server load, but we will be discussing with the team and others to determine the optimal setup.
+Note - currently 4 strategies are deployed, splitting up the collections.
 
 ### Strategies/NFT_Strategies_1
 - Cryptopunks
