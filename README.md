@@ -27,6 +27,7 @@ Note - currently 4 strategies are deployed, splitting up the collections.
 ### Strategies/NFT_Strategies_2
 - Punks Comic
 - CyberKongz
+- Autoglyphs
 - Damient Hirst - The Currency
 - Pudgy Penguins
 - BAKC
