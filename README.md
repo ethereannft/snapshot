@@ -1,6 +1,7 @@
 # Etherean Unicorn Club - Snapshot
 
 [ethereannft.com](https://www.ethereannft.com)
+
 This repo is for displaying our snapshot strategies and an overview of the process.
 
 ## Strategies
