@@ -28,7 +28,6 @@ Note - currently 4 strategies are deployed, splitting up the collections.
 - Punks Comic
 - CyberKongz
 - Damient Hirst - The Currency
-- Gutter Cat Gang
 - Pudgy Penguins
 - BAKC
 - MAYC
